@@ -2,9 +2,9 @@
 
 A fun robot eye shader
 
-<img src="https://dl.dropboxusercontent.com/u/642665/UseDrib.gif" width="800"/>
+<img src="http://skatelinesgame.com/1.gif" width="800"/>
 
-<img src="https://dl.dropboxusercontent.com/u/642665/UseTwitter.gif" width="400"/>
+<img src="http://skatelinesgame.com/2.gif" width="400"/>
 
 ## Contact
 
