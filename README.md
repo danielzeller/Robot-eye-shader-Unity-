@@ -2,9 +2,9 @@
 
 A fun robot eye shader
 
-<img src="http://skatelinesgame.com/1.gif?raw=true" width="800"/>
+<img src="/1.gif?raw=true" width="800"/>
 
-<img src="http://skatelinesgame.com/2.gif?raw=true" width="400"/>
+<img src="/2.gif?raw=true" width="400"/>
 
 ## Contact
 
